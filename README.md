@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Version](https://img.shields.io/npm/v/mime-updatecheck)]()
-[![GitHub Issues](https://img.shields.io/github/issues/Mimexe/UpdaterChecker.svg)](https://github.com/Mimexe/UpdaterChecker/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mimexe/UpdaterChecker.svg)](https://github.com/Mimexe/UpdaterChecker/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/Mimexe/UpdateChecker.svg)](https://github.com/Mimexe/UpdateChecker/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mimexe/UpdateChecker.svg)](https://github.com/Mimexe/UpdateChecker/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -104,4 +104,4 @@ updater.check()
 
 - [@Mimexe](https://github.com/Mimexe) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/Mimexe/UpdaterChecker/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Mimexe/UpdateChecker/contributors) who participated in this project.
